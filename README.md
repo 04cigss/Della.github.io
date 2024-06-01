@@ -23,7 +23,7 @@
         .header img {
             width: 400px;
             border-radius: 0%;
-       }
+ }
         .header h1 {
             margin: 10px 0;
             font-size: 2em;
@@ -48,7 +48,7 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="IMG2452.jpg" alt="Foto Profil">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsqewsVsesf9MG6pFBWuM2lf-2xHEcYpJxNsQsU6uE08f0iSFgZIbVFV805o-udTXCl_iGcwBjTG-WyqYdSjDWAoCfr3UjuY3ZufZLPlaalMqP5ffxmdNSxKlVLknYzum29SM16frSqesUa3o1ata_jImaAwzd6G_21bnDglqZ9t0qFdpeKBUPN95VKsk/w453-h340/IMG2452.JPG" alt="Foto Profil">
             <h1>Della Syafiqa</h1>
             <p>Kota Serang , Banten |delasyafiqaaa@gmail.com | 0877-7467-9660 </p>
    </div>
@@ -143,7 +143,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horizontal Rule</title>
             <p>UNIVERISTAS HARVARD</p>
-            <img src="IMG2851.jpg" alt="Gambar Proyek">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7hNh0MaHBFWwUI0MVoecHMR8aFoCYJ1qp45sZqiuVgT3ZPaH8Q3FADmKw-FX6qLX7-5nghawt0qyUJN95uqpEJzAnodYlm107NxO7tC82zfVfrb5KwwEmCoorYzTPoM-A4rBrYRdc24nf1x0m1VbV_gT_vThmWFXsaqKjQ99Q371ln1KqM-ufkPMYVg/w584-h338/IMG2851.JPG" alt="Gambar Proyek">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
